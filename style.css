@@ -1,0 +1,73 @@
+input, label {
+    all: unset;
+    display: inline;
+}
+
+input {
+    caret-color: cyan;
+}
+
+label {
+    text-align: right;
+    white-space: normal;
+}
+
+* {
+  font-family: 'Fira Code', monospace;
+  color-scheme: dark;
+  cursor: text;
+}
+
+body {
+    background-color: #121217;
+    overflow-x: hidden;
+}
+
+*::selection {
+    background-color: #036363;
+    text-shadow: .1em .1em .5em #000;
+}
+
+pre *, pre {
+    text-shadow: .1em .1em .5em #3d3d3d;
+}
+
+pre:not(.prompt) {
+    overflow-wrap: break-word;
+    white-space: pre-wrap;
+}
+
+a {
+    color: inherit !important;
+}
+
+a:hover {
+    background-color: white;
+    color: black !important;
+}
+
+p {
+    margin: 0;
+    text-align: right;
+}
+
+.prompt {
+    padding: 0;
+    width: 100%;
+    display: grid;
+    gap: .5em;
+    grid-template-columns: 11.5em 1fr 4.3em;
+}
+
+.mobile {
+    display: none;
+}
+
+@media (max-width: 756px) {
+    .mobile {
+        display: block;
+    }
+    .nomobile {
+        display: none;
+    }
+}
