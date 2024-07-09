@@ -1,10 +1,10 @@
 export default function(output) {
     output.innerHTML += `\
 Here Is A List Of Commands:
-    <b><span data-color="#00ff99">aman               </span> <span data-color="grey">-</span> <span data-color="white">check yourself</span></b>
     <span data-color="#00ff99">help               </span> <span data-color="grey">-</span> <span data-color="white">Displays This.</span>
     <span data-color="#00ff99">gui                </span> <span data-color="grey">-</span> <span data-color="white">Activate Graphical Mode.</span>
     <span data-color="#00ff99">about              </span> <span data-color="grey">-</span> <span data-color="white">know Aman</span>
+    <b><span data-color="#00ff99">aman               </span> <span data-color="grey">-</span> <span data-color="white">check yourself</span></b>
     <span data-color="#00ff99">quote              </span> <span data-color="grey">-</span> <span data-color="white">Just Some Random Quotes.</span>
     <span data-color="#00ff99">source             </span> <span data-color="grey">-</span> <span data-color="white">Source Code</span>
     <span data-color="#00ff99">projects [name?]   </span> <span data-color="grey">-</span> <span data-color="white">My Github Repos!</span>
