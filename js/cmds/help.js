@@ -13,7 +13,7 @@ Here Is A List Of Commands:
 Extra Commands For Fun:
     <span data-color="#00ff99">clear              </span> <span data-color="grey">-</span> <span data-color="white">Clears Terminal.</span>
     <span data-color="#00ff99">whoami             </span> <span data-color="grey">-</span> <span data-color="white">Aap kon?</span>
-    <span data-color="#00ff99">history            </span> <span data-color="grey">-</span> <span data-color="white">cout Command History.</span>
+    <span data-color="#00ff99">history            </span> <span data-color="grey">-</span> <span data-color="white">printf Command History.</span>
     <span data-color="#00ff99">hostname           </span> <span data-color="grey">-</span> <span data-color="white">What Is This?</span>
     <span data-color="#00ff99">echo [text]        </span> <span data-color="grey">-</span> <span data-color="white">Prints [text].</span>
     <span data-color="#00ff99">eval [code]        </span> <span data-color="grey">-</span> <span data-color="white">Eval [code] As JS.</span>
