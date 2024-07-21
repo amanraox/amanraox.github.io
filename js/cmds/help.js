@@ -14,7 +14,7 @@ Extra Commands For Fun:
     <span data-color="#00ff99">clear              </span> <span data-color="grey">-</span> <span data-color="white">Clears Terminal.</span>
     <span data-color="#00ff99">whoami             </span> <span data-color="grey">-</span> <span data-color="white">Aap kon?</span>
     <span data-color="#00ff99">happycow           </span> <span data-color="grey">-</span> <span data-color="white">cow want to say something</span>
-    <span data-color="#00ff99">angryycow           </span> <span data-color="grey">-</span> <span data-color="white">Bad Cow</span>
+    <span data-color="#00ff99">angryycow          </span> <span data-color="grey">-</span> <span data-color="white">Bad Cow</span>
     <span data-color="#00ff99">history            </span> <span data-color="grey">-</span> <span data-color="white">printf Command History.</span>
     <span data-color="#00ff99">hostname           </span> <span data-color="grey">-</span> <span data-color="white">What Is This?</span>
     <span data-color="#00ff99">echo [text]        </span> <span data-color="grey">-</span> <span data-color="white">Prints [text].</span>
