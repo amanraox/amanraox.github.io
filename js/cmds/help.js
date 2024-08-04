@@ -4,6 +4,8 @@ Here Is A List Of Commands:
     <span data-color="#00ff99">help               </span> <span data-color="grey">-</span> <span data-color="white">Displays This.</span>
     <span data-color="#00ff99">gui                </span> <span data-color="grey">-</span> <span data-color="white">Activate Graphical Mode.</span>
     <span data-color="#00ff99">about              </span> <span data-color="grey">-</span> <span data-color="white">know Aman</span>
+    <span data-color="#00ff99">skills             </span> <span data-color="grey">-</span> <span data-color="white">My Wizarding Tools</span>
+    <span data-color="#00ff99">resume             </span> <span data-color="grey">-</span> <span data-color="white">Download my Resume</span>    
     <b><span data-color="#00ff99">aman               </span> <span data-color="grey">-</span> <span data-color="white">check yourself</span></b>
     <span data-color="#00ff99">quote              </span> <span data-color="grey">-</span> <span data-color="white">Just Some Random Quotes.</span>
     <span data-color="#00ff99">source             </span> <span data-color="grey">-</span> <span data-color="white">Source Code</span>
