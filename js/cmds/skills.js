@@ -1,22 +1,21 @@
 export default function(output) {
     output.innerHTML += `\
 .
-├── Languages I know and use/
-│   ├── CPP
+├── Languages I use/
+│   ├── CPP (for competitive programming)
 │   ├── Python
 │   ├── JavaScript
-│   ├── CSS
+│   ├── JAVA
 │   └── MARKUPS/
 │       ├── HTML
 │       ├── XML
 │       └── Markdown
-├── Frameworks I know and use/
+├── Frameworks I use/
 │   ├── FRONTEND/
 │   │   ├── ReactJS
 │   │   ├── VueJS
-│   │   ├── Hugo
 │   │   ├── NextJS
-│   │   └── NuxtJS
+│   │   └── ShadCN
 │   ├── CSS/
 │   │   ├── PureCSS
 │   │   ├── TailwindCSS
@@ -25,7 +24,8 @@ export default function(output) {
 │   └── BACKEND/
 │       ├── NodeJS (RUNTIME)
 │       └── ExpressJS (Server)
-├── Other Tools I know and use/
+│       └── Django
+├── Tools I use/
 │   ├── Editors/
 │   │   ├── Vim
 │   │   ├── VSCode
@@ -34,21 +34,28 @@ export default function(output) {
 │       ├── bash
 │       ├── poweshell
 │       └── cmd
-├── Databases I know and use/
+├── Databases I use/
 │   ├── SQL/
 │   │   ├── POSTGRESQL
 │   │   └── MYSQL
 │   └── NoSQL/
 │       ├── Mongodb
 │       └── Firestore
-├── Design Tools I know and use/
+├── OS I use/
+│   ├── Debian
+│   ├── Windows
+│   ├── Ubuntu
+│   └── Mint
+├── Design Tools I use/
 │   ├── Figma
 │   ├── Canva
 │   ├── Adobe Photoshop
+│   ├── Adobe Illustrator
+│   ├── Corel Draw X7
 │   └── GIMP
 └── Other/
     ├── Chrome extension development
-    ├── Firefox add-on development
+    ├── python package development
     └── npm module development
 `;
 }
